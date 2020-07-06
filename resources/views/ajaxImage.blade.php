@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Laravel Import Export CSV - <a href="https://www.mtitsolutions.in/">MTitsolutions</a></title>
+    <title>Laravel Ajax Image Upload - <a href="https://www.mtitsolutions.in/">MTitsolutions</a></title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" />
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 </head>
@@ -10,7 +10,7 @@
 <div class="container">
     <div class="card">
         <div class="card-header">
-            Laravel Import Export CSV - <a href="https://www.mtitsolutions.in/">MTitsolutions</a>
+            Laravel Ajax Image Upload - <a href="https://www.mtitsolutions.in/">MTitsolutions</a>
         </div>
         <div class="card-body">
             <div class="alert alert-success" style="display: none;">
